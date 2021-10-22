@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Execise4-2</string>
+
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_person">Person</string>
+
+    <string name="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis tortor et gravida vulputate. Proin ullamcorper enim vitae urna efficitur elementum. Praesent in rhoncus felis. Duis ut pellentesque nunc. Suspendisse posuere vulputate ante eget aliquet. Pellentesque suscipit blandit metus id suscipit. In tempus ipsum quis justo scelerisque finibus. Fusce lacinia nulla ligula, vel fringilla erat ullamcorper at. Mauris mollis purus id sapien aliquam varius. Pellentesque tempus scelerisque pretium. Aenean pharetra commodo gravida. Cras eget eros at turpis sollicitudin commodo. Praesent a ultrices nisi. Cras malesuada eros felis, commodo convallis nunc pellentesque et.</string>
+</resources>

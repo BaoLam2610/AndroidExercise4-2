@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mnBottomNavMenu"
+        android:title="Bottom Navigation Menu"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/mnToolbar"
+        android:title="Toolbar"
+        android:icon="@drawable/ic_person"/>
+
+    <item android:id="@+id/mnCollapseToolbar"
+        android:title="Collapse Toolbar"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>
